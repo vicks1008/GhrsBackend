@@ -12,5 +12,6 @@ django-heroku = "*"
 gunicorn = "*"
 django-cors-headers = "*"
 djangorestframework = "*"
+django_extensions = "*"
 
 [dev-packages]
